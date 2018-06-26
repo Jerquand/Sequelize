@@ -1,2 +1,2 @@
-# Sequelize
-Sequelize 
+# SimpleServer
+Simple Server
